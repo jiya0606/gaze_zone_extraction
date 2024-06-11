@@ -97,6 +97,11 @@ with open('/Users/jiya/downloads/D114-S3-before_gaze(s9).csv') as cards:
         else:
             gaze.append('')
             gaze_confidence.append('')
+            x_pos.append('')
+            y_pos.append('')
+            seconds_array.append('')
+            image_name.append('')
+            
 
 
 
